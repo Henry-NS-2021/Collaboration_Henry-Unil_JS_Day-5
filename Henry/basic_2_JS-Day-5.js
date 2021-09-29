@@ -27,7 +27,7 @@ var Nissan = new Car("Nissan", "GT-R", "Orange", 2003, "https://ig-model.com/lin
 
 var Pagani = new Car("Pagani Zonda", "R", "Black", 2010, "https://autodius.com/wp-content/uploads/2018/03/2010-pagani-zonda-r.jpg");
 
-var Citroen = new Car("Citroen", "Granturismo", "Red", "2009", "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F3639%2F3349809526_8100f53095_b.jpg&f=1&nofb=1")
+var Citroen = new Car("Citroen", "Granturismo", "White", "2009", "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F3639%2F3349809526_8100f53095_b.jpg&f=1&nofb=1")
 
 //Display objects on browser
 printMe.innerHTML = Nissan.classFunction();
